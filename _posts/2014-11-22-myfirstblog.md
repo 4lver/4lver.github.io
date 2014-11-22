@@ -8,7 +8,7 @@ tags: [first]
 
 ###这是我的第一篇博客:)
 
-{% highlight javascript %}
+{% highlight java %}
 public class markdown{
     public static void main(String[] arg){
     System.out.println("Hello,MarkDown!");
