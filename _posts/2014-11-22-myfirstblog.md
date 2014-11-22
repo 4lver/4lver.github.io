@@ -6,4 +6,15 @@ category: essay
 tags: [first]
 ---
 
-这是我的第一篇博客:)
+###这是我的第一篇博客:)
+`
+markdown
+`
+
+```java
+public class markdown{
+    public static void main(String[] arg){
+    System.out.println("Hello,MarkDown!");
+}
+}
+```
