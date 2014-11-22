@@ -11,10 +11,10 @@ tags: [first]
 markdown
 `
 
-```java
+{% highlight javascript %}
 public class markdown{
     public static void main(String[] arg){
     System.out.println("Hello,MarkDown!");
 }
 }
-```
+{% endhighlight %}
