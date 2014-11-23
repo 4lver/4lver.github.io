@@ -54,6 +54,8 @@ blockquote p{margin:0;padding:.5em 0;}
 .listing-item time{color:#999999;}
 .listing-seperator{font-weight:bold;}
 .meta{text-align:left;font-size:13px;color: silver;}
+.meta pre{text-align: left;}
+.meta nex{text-align: right;}
 .pageNav{font-weight:bold;font-size:17px;}
 .pageNavInvalid{font-weight:bold;font-size:17px;color:#D0D0D0;}
 header{padding:.5em 0;border-bottom: 1px solid #cccccc;}
