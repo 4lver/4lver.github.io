@@ -16,8 +16,8 @@ comments: no
 ###联系方式：        
 
 个人邮箱: [460436113ghost@gmail.com](mailto:460436113ghost@gmail.com)     
-github : [4lver](https://github.com/4lver)     
-QQ : 460436113     
+github  : [4lver](https://github.com/4lver)     
+QQ Num  : 460436113     
 
 ----
 
