@@ -4,21 +4,19 @@ layout: page
 comments: no
 ---
 
-{% highlight javascript %}
-  var 4lver = {
-    Name : "4lver",
-    site : "http://4lver.githun.io"
-  }
-{% endhighlight %}
+* 大学生一枚，目前还在奋斗中！
+* 无意间接触到了git，于是搞了个博客~
 
-----
+---
 
 ###联系方式：        
 
-个人邮箱: [460436113ghost@gmail.com](mailto:460436113ghost@gmail.com)     
-github  : [4lver](https://github.com/4lver)     
-QQ Num  : 460436113     
+*	个人邮箱 : [460436113ghost@gmail.com](mailto:460436113ghost@gmail.com) 
+*	github : [4lver](https://github.com/4lver) 
+*	QQ : 460436113 
 
-----
+---
+###致谢
+*	感谢[webfrogs](https://github.com/webfrogs/webfrogs.github.com),很不错的博客模板！
 
 
