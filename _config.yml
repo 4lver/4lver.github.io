@@ -1,7 +1,7 @@
 markdown: rdiscount
 permalink: /:year/:month/:day/:title/
-# url: http://4lver.github.io
-url: http://127.0.0.1:4000
+url: http://4lver.github.io
+# url: http://127.0.0.1:4000
 author: 4lver
 pygments: true
 safe: true
