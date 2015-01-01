@@ -1,9 +1,11 @@
-markdown: rdiscount
+markdown: redcarpet
+redcarpet:
+    extensions: ["fenced_code_blocks", "tables", "highlight", "strikethrough"]
 permalink: /:year/:month/:day/:title/
 url: http://4lver.github.io
-# url: http://127.0.0.1:4000
 author: 4lver
-pygments: true
+#pygments: true
+highlighter: pygments
 safe: true
 paginate: 16
 auto: true
